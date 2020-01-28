@@ -1,2 +1,2 @@
 # CDN
-基于JsDelivr白嫖的CDN加速文件仓库 
+又是一个白嫖的JsDlivr CDN仓库
